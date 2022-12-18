@@ -75,12 +75,6 @@ int main()
 
     dfs(1, 1);
 
-    // for (int i = 1; i <= n; ++i)
-    // {
-    //     cout << i << " " << preorder[i] << ": "<< 
-segment[preorder[i]].first << ' ' << segment[preorder[i]].second << '\n';
-    // }
-
     int m;
     cin >> m;
     char x;
