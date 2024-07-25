@@ -1,3 +1,4 @@
+// https://szkopul.edu.pl/problemset/problem/eQ4z7Bnhqsl67nKb_NlISLNZ/site/?key=statement
 // Piotr Kowalczyk
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,3 +1,4 @@
+// https://szkopul.edu.pl/c/mistrz-programowania-2024/p/r2d/
 #include <bits/stdc++.h>
 using namespace std;
 

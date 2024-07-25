@@ -1,3 +1,5 @@
 *.*
 !.gitignore
 !*.cpp
+!*.md
+.DS_Store

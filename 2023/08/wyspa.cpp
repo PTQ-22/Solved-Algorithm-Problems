@@ -1,3 +1,4 @@
+// https://szkopul.edu.pl/problemset/problem/e5LK9PxWitOX0_1ujs123Gjq/site/?key=statement
 #include <bits/stdc++.h>
 using namespace std;
 

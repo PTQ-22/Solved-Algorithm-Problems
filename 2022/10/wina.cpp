@@ -1,3 +1,4 @@
+// https://szkopul.edu.pl/c/olimpiada-od-podstaw-2022-23/problemset/problem/T-F5dZGgu3pmKAzGdWUfoHy6/site/?key=statement
 #include <bits/stdc++.h>
 using namespace std;
 
